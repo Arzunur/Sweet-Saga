@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 96a60683e392e5d4eb284831d8a69091
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hey Comic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9ec7ba3f3a038f241b02ee1d627c6554, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
